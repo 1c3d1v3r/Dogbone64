@@ -9,7 +9,7 @@ Right slide switch selects the functiuon of button A. If slide switch is up then
 Left slide switch selects FIRE2 compatibility. C64 requires connection to +5V. Amiga requires connection to GND. If slide switch is up then FIRE2 is Amiga compatible. If slide switch is down then FIRE2 is C64 compatible.
 There are of course many other computers compatible with this controller. Check the support for FIRE2 and connection to +5V or GND.
 
-Gerber files and assembly instructions coming soon.
+Assembly instructions coming soon.
 
 Image of first revision. Ugly labels made with a Brother label printer. I'm looking into ordering better labels.
 <p align="center">
@@ -37,6 +37,15 @@ The PCB has been tried to the controller model sold at Aliexpress. I also got a 
 <p align="center">
     <img img width="800" src="images/Dogbone64_R1.0_schematic.PNG">
 </p>
+
+## Gerber files
+Gerber files for ordering the PCBs are available [HERE.](https://github.com/1c3d1v3r/Dogbone64/blob/main/gerbers/Dogbone64_R1_PCB.zip)<br>
+I ordered with the same .zip package from JCLpcb.<br>
+**Parameters:**<br>
+PCB Thickness: 1.6mm<br>
+Surface Finish: ENIG<br>
+Via Covering: Tented<br>
+PCB Remark: "There is silk on copper on purpose on the PCB art. Please do not cut away silk on copper."<br>
 
 ### Licence
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">Dogbone64</span> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/1c3d1v3r/">Pasi Lassila</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
