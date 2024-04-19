@@ -35,11 +35,11 @@ The PCB has been tried to the controller model sold at Aliexpress. I also got a 
 ## Schematic
 
 <p align="center">
-    <img img width="800" src="images/Dogbone64_R1.0_schematic.PNG">
+    <img img width="800" src="images/Dogbone64_R2.0_schematic.PNG">
 </p>
 
 ## Gerber files
-Gerber files for ordering the PCBs are available [HERE.](https://github.com/1c3d1v3r/Dogbone64/blob/main/gerbers/Dogbone64_R1_PCB.zip)<br>
+Gerber files for ordering the PCBs are available [HERE.](https://github.com/1c3d1v3r/Dogbone64/blob/main/gerbers/Dogbone64_R2_PCB.zip)<br>
 I ordered with the same .zip package from JCLpcb.<br>
 **Parameters:**<br>
 PCB Thickness: 1.6mm<br>
