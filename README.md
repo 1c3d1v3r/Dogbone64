@@ -5,11 +5,9 @@
 # Dogbone64
 Replacement PCB for NES Dogbone controller. Amiga &amp; Commodore 64 compatible.
 
-Right slide switch selects the functiuon of button A. If slide switch is up then button A is UP. If slide switch is down then button A is FIRE2.
-Left slide switch selects FIRE2 compatibility. C64 requires connection to +5V. Amiga requires connection to GND. If slide switch is up then FIRE2 is Amiga compatible. If slide switch is down then FIRE2 is C64 compatible.
+The right slide switch selects the function of button A. If slide switch is up then button A is UP. If slide switch is down then button A is FIRE2.
+The left slide switch selects FIRE2 compatibility. C64 requires connection to +5V. Amiga requires connection to GND. If slide switch is up then FIRE2 is Amiga compatible. If slide switch is down then FIRE2 is C64 compatible.
 There are of course many other computers compatible with this controller. Check the support for FIRE2 and connection to +5V or GND.
-
-Assembly instructions coming soon.
 
 Image of first revision. Ugly labels made with a Brother label printer. I'm looking into ordering better labels.
 <p align="center">
